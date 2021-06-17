@@ -1,1 +1,2 @@
-# 26thMay_B1_AI
+startup profit predictor using linear regression
+
