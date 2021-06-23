@@ -1,1 +1,1 @@
-# 26thMay_B1_AI
+ project to scrap live data of smartphones from Flipkart Website using BeautifulSoup,pandas libraries
