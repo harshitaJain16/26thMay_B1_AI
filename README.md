@@ -1,1 +1,1 @@
-# 26thMay_B1_AI
+model to predict Breast cancer in a person ( Malignant or  Benign )
