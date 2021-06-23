@@ -1,1 +1,1 @@
-Gui Model to predict whether a person survived or died in Titanic crash using Logictic Regression
+Gui Model to predict whether a person survived or died in Titanic crash using Logistic Regression
